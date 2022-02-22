@@ -24,9 +24,9 @@ setup(
     description='Additional fields for Django Rest Framework.',
     long_description=README,
     long_description_content_type="text/markdown",
-    author='hipo',
-    author_email='pypi@hipolabs.com',
-    url='https://github.com/Hipo/drf-extra-fields',
+    author='kamerforrent',
+    author_email='kamerforrentnl@gmail.com',
+    url='https://github.com/Christiaanvv/drf-extra-fields',
     python_requires=">=3.7",
     install_requires=requirements,
     classifiers=[
